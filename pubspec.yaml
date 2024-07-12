@@ -1,6 +1,6 @@
 name: flutter_file_compressor
 description: "Flutter package for compressing image and video files, for Android and iOS"
-version: 0.0.4
+version: 0.0.5
 repository: 'https://github.com/boris-ilic/flutter_file_compressor'
 
 environment:

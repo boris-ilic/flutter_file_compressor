@@ -10,7 +10,6 @@ Flutter File Compressor is a lightweight and efficient package for compressing i
 ## Features
 
 - Compress images and videos.
-- Maintain aspect ratios for images.
 - Simple and easy-to-use API.
 - Supports both Android and iOS platforms.
 
