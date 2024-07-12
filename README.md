@@ -16,3 +16,10 @@ Add `flutter_file_compressor` to your Flutter project by adding the following li
 ```yaml
 dependencies:
   flutter_file_compressor: ^1.0.0# flutter_file_compressor
+
+```usage
+await FlutterFileCompressor.compressFile(
+        filePath: _filePath,
+        quality: 70,
+        compressionType: CompressionType.image,
+      )
