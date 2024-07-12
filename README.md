@@ -1,8 +1,4 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # Flutter File Compressor
 
 Flutter File Compressor is a lightweight and efficient package for compressing images and videos in Flutter applications. It provides a simple API to compress files while maintaining aspect ratios, making it ideal for applications that need to manage file sizes effectively.
