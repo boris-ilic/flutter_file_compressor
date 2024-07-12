@@ -1,6 +1,7 @@
 name: flutter_file_compressor
 description: "A new Flutter package project."
 version: 0.0.1
+repository: 'https://github.com/boris-ilic/flutter_file_compressor'
 
 environment:
   sdk: ">=3.2.6 <4.0.0"
