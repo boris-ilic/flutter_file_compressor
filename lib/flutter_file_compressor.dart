@@ -5,7 +5,7 @@ import 'package:light_compressor/light_compressor.dart';
 
 enum CompressionType { image, video }
 
-class FileCompressor {
+class FlutterFileCompressor {
   static Future<dynamic> compressFile({
     required String filePath,
     required int quality,
