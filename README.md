@@ -27,6 +27,6 @@ dependencies:
 ```usage
 await FlutterFileCompressor.compressFile(
         filePath: _filePath,
-        quality: 70,
+        quality: 70, //percent
         compressionType: CompressionType.image, //CompressionType.video
       )
