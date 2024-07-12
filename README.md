@@ -15,7 +15,7 @@ Add `flutter_file_compressor` to your Flutter project by adding the following li
 
 ```yaml
 dependencies:
-  flutter_file_compressor: ^1.0.0# flutter_file_compressor
+  flutter_file_compressor: ^1.0.0
 ```
 
 ## Usage
